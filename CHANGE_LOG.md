@@ -1,5 +1,32 @@
 Stockalike Mining Extension :: Change Log
 
+* 2017-0506: 0.96 (SuicidalInsanity) for KSP 1.22
+	+ KSP 1.22 Update
+		- Fixed 0.625m generator attach node
+		- Mk2 Inline Drill now has particle FX when active
+		- 0.625m Stack drill now has particle FX when active
+		- 1.25m stack drill animations tweaked
+		- 1.25m stack drill now has particle FX when active
+		- 1.25m stack drill req'd/max cooling adjusted to 200kw
+		- 2.5m stack drill animations tweaked
+		- 2.5m stack drill now has particle FX when active
+		- 2.5m stack drill req'd/max cooling adjusted to 300kw
+		- 1.25m stack pump now has particle FX when active
+		- inline drills req'd/max cooling adjsted to 75kw
+		- mk2 inline drill mass increased
+		- 1.25m generator output changed to 50 Ec/s
+		- mk2 multifuel generator Ec storage increased to 500
+		- mk2 multifuel generator output changed to 75Ec/s
+		- 0.625m fuelcell generator mass and output reduced
+		- 3.75m ISRU max cooling increased to 600
+		- mk2 ISRU required cooling reduced
+		- 3.75m ore tank dry mass increased to 4500 kg
+		- mk2 Ore tank mass reduced to 1000 kg
+		- drill Ec/s costs adjusted to reasonable values
+		- New Part: 2.5m multifuel generator
+		- Fixed the Extras/Ore.cfg MM patch will no longer add Ore ot Eve's oceans
+		- Fixed missing curly brace in KA MM patch
+		- Added Extras/patch/EngineerEfficiency MM patch to fix asteroid drill overheat without an engineer
 * 2016-0216: 0.95 (SuicidalInsanity) for KSP 1.2
 	+ KSP 1.2 compatibility update
 	+ Added OSE Workshop compatibility MM patch
