@@ -1,5 +1,9 @@
 Stockalike Mining Extension :: Change Log
 
+* 2019-0121: 0.99.1 (SuicidalInsanity) for KSP 1.6
+	+ KSp 1.6.X hotfix
+	+ Fixes missing bulkhead profiles
+	+ Fixes a few attach nodes
 * 2018-1117: 0.99 (SuicidalInsanity) for KSP 1.4.1
 	+ New Part: Mass Driver RCS
 	+ New Part: Size3 Stack Drill
