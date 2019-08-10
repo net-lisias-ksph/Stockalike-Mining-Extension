@@ -1,5 +1,11 @@
 Stockalike Mining Extension :: Change Log
 
+* 2019-0423: 0.99.2 (SuicidalInsanity) for KSP 1.7
+	+ KSP 1.7 update
+		- Fixes Tweakscale patch, no longer conflicts with TS's SME patch
+		- Fixes scaled flag for agency contracts
+		- Fixes missing bulkhead profiles
+		- Adds Whitelist for ReStock compatibility
 * 2019-0121: 0.99.1 (SuicidalInsanity) for KSP 1.6
 	+ KSp 1.6.X hotfix
 	+ Fixes missing bulkhead profiles
