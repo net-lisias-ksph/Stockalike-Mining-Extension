@@ -1,5 +1,9 @@
 Stockalike Mining Extension :: Change Log
 
+* 2017-0602: 0.96.1 (SuicidalInsanity) for KSP 1.3
+	+ Update for KSP 1.3
+		- implements new SpecialistHeatBonus values for drills/converters
+		- MaxCooling values updated for drills/converters
 * 2017-0506: 0.96 (SuicidalInsanity) for KSP 1.22
 	+ KSP 1.22 Update
 		- Fixed 0.625m generator attach node
