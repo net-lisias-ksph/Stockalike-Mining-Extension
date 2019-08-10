@@ -1,5 +1,23 @@
 Stockalike Mining Extension :: Change Log
 
+* 2018-1117: 0.99 (SuicidalInsanity) for KSP 1.4.1
+	+ New Part: Mass Driver RCS
+	+ New Part: Size3 Stack Drill
+	+ New Part: Mk3 Ore Tank
+	+ New Part: Mk3 ISRU Converter
+	+ New Part: Size2 Oceanic Extractor
+	+ New Part: Size1 Inline Oceanic Extractor
+	+ Fixes Size0 Stack Drill attach node size
+	+ Fixes Size0 Fuelcell texture
+	+ Fixes Size1 Fuelcell texture
+	+ Fixes Size2 Fuelcell texture
+	+ Fixes Size1 Stack Drill bottom Node
+	+ Fixes landing leg texture.
+	+ Landing leg now properly mirrors in Mirror Symmetry
+	+ Mass Drivers now have bottom node, fairings
+	+ Tweaks atmospheric Xenon abundance for Atmo condensers
+	+ Various part description/tags/Localization fixes
+	+ Adds Tweakscale patch, see readme
 * 2018-0328: 0.97.1 (SuicidalInsanity) for KSP 1.4.1
 	+ Update for KSP 1.4.1
 	+ Fixes Onager missing description
