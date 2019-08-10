@@ -1,5 +1,9 @@
 Stockalike Mining Extension :: Change Log
 
+* 2018-0328: 0.97.1 (SuicidalInsanity) for KSP 1.4.1
+	+ Update for KSP 1.4.1
+	+ Fixes Onager missing description
+	+ Adds localization strings for drills/converters
 * 2017-1022: 0.97 (SuicidalInsanity) for KSP 1.3.1
 	+ Update for KSP 1.3.1
 	+ Adds Localization support
