@@ -1,5 +1,15 @@
 Stockalike Mining Extension :: Change Log
 
+* 2017-1022: 0.97 (SuicidalInsanity) for KSP 1.3.1
+	+ Update for KSP 1.3.1
+	+ Adds Localization support
+	+ New Part: "Onager" Size 1 Mass Driver
+	+ New part: "Trebuchet" Size 2 Mass Driver
+	+ Fixes missing texture on heavy landing leg
+	+ Adds Size 1 Aircraft Inline Drill
+	+ Adds Size0 Klaw
+	+ Mk2 and Size2 Generators now have coreheat
+	+ Added ELP recycler functionality to Tremor and Terravore Drills
 * 2017-0602: 0.96.1 (SuicidalInsanity) for KSP 1.3
 	+ Update for KSP 1.3
 		- implements new SpecialistHeatBonus values for drills/converters
