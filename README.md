@@ -22,3 +22,4 @@ UPSTREAM
 ===================================================================================================================
 https://github.com/SuicidalInsanity/Stockalike-Mining-Extension
 https://forum.kerbalspaceprogram.com/index.php?/topic/130325-*
+https://imgur.com/a/3tTgR
