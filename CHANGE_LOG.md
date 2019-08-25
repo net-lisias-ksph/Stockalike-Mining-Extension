@@ -1,5 +1,12 @@
 Stockalike Mining Extension :: Change Log
 
+* 2019-0810: 0.99.3 (SuicidalInsanity) for KSP 1.7.3
+	+ Fixes KA patch
+	+ Mk3 ISRU now has KA config
+	+ Size 3 stack drill now has EPL recycler functionality
+	+ Mk2 and mk3 parts now have correct impact and temp rating for their formfactors
+	+ Fixes mini grabbing unit typo
+	+ Ore tank masses brought inline with stock masses
 * 2019-0423: 0.99.2 (SuicidalInsanity) for KSP 1.7
 	+ KSP 1.7 update
 		- Fixes Tweakscale patch, no longer conflicts with TS's SME patch
