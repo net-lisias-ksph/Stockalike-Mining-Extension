@@ -1,5 +1,11 @@
 Stockalike Mining Extension :: Change Log
 
+* 2019-1109: 0.99.4 (SuicidalInsanity) for KSP 1.8.1
+	+ KSP 1.8 Update
+		- LH2 conversion now needs CryoTanks instead of kerbal Atomics
+		- Mk3 Converter now has LH2 option
+		- Mk3 converter now has proper bulkhead profile
+		- Fixes texture error on size 3 ISRU
 * 2019-0810: 0.99.3 (SuicidalInsanity) for KSP 1.7.3
 	+ Fixes KA patch
 	+ Mk3 ISRU now has KA config
