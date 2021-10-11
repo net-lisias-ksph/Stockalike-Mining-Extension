@@ -20,7 +20,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 UPSTREAM
 ===================================================================================================================
-https://forum.kerbalspaceprogram.com/index.php?/topic/130325-*
-https://spacedock.info/mod/354/Stockalike%20Mining%20Extension
-https://github.com/SuicidalInsanity/Stockalike-Mining-Extension
-https://imgur.com/a/3tTgR
+* [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/130325-*)
+* [Imgur](https://imgur.com/a/3tTgR)
+* [SpaceDock](https://spacedock.info/mod/354/Stockalike%20Mining%20Extension)
+* [Github](https://github.com/SuicidalInsanity/Stockalike-Mining-Extension)
