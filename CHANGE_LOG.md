@@ -1,5 +1,11 @@
 Stockalike Mining Extension :: Change Log
 
+* 2020-0709: 1.1.5 (SuicidalInsanity) for KSP 1.10.0
+	+ KSP 1.10 update
+		- Fixes Asteroid klaw and Radial Klaw textures
+		- Miniklaw moved to legacy due to stock miniklaw; non 1.10 installs can find it by removing the TechHidden = True line from the /MiningExpansion/parts/size0klaw/part.cfg
+		- Adds CometHarvester modules to all drills
+		- Improves Atmospheric Condenser Xenon harvest rates
 * 2020-0314: 1.1.1 (SuicidalInsanity) for KSP 1.9.1
 	+ KSP 1.9.x update
 		- New Part: Vertical landing Gear
