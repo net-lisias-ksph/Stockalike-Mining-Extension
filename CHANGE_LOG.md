@@ -1,5 +1,20 @@
 Stockalike Mining Extension :: Change Log
 
+* 2020-0313: 1.1 (SuicidalInsanity) for KSP 1.9.
+	+ KSP 1.9.x update
+		- New Part: Vertical landing Gear
+		- New part: Shrouded Vertical landing Gear
+		- New part: Deployable Rover Wheel
+		- New Part: Shrouded 1.25m Inline Deployable Wheel
+		- New Part: Shrouded 0.625m inline Deployable Wheel
+		- New Part: Radial Klaw
+		- New Part: Radial Superheavy landing leg
+		- New Part: Anchorable Docking Port
+		- New Part: Inflatable Asteroid Crew Can
+		- Superheavy Stack leg now has deploy sounds
+		- Adds Example Craft
+		- Restock Whitelist updated
+		- Various parts crash tolerance/bulkhead tags fixed
 * 2019-1109: 0.99.4 (SuicidalInsanity) for KSP 1.8.1
 	+ KSP 1.8 Update
 		- LH2 conversion now needs CryoTanks instead of kerbal Atomics
