@@ -1,5 +1,8 @@
 Stockalike Mining Extension :: Change Log
 
+* 2020-0807: 1.1.6 (SuicidalInsanity) for KSP 1.10.1
+	+ Size 0 ISRU no longer overheats
+	+ Deployable wheels have been fixed
 * 2020-0709: 1.1.5 (SuicidalInsanity) for KSP 1.10.0
 	+ KSP 1.10 update
 		- Fixes Asteroid klaw and Radial Klaw textures
